@@ -1,6 +1,6 @@
 # oxenfurt
 
-> futuristic library
+> futuristic library IT system
 
 ## Build Setup
 
